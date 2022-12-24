@@ -8,4 +8,5 @@
 - 📫 How to reach me: @jacklehamster
 - 😄 Pronouns: You can call me ze hamster, or el hamster, maybe yo hamster...
 - ⚡ Fun fact: 79% of online poll results are just made up.
-- 🎮 Check out my games [here](https://jacklehamster.github.io/jacklehamster/)
+- 🎮 Check out [my games](https://jacklehamster.github.io/jacklehamster/)
+- 📺 Subscribe to my [gaming channel](https://www.youtube.com/@dobuki)
