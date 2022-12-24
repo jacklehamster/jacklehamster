@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**jacklehamster/jacklehamster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a crazy game called World of Turtle
 - 🌱 I’m currently learning to build and release games on Steam.
 - 👯 I’m looking to collaborate on making artsy games.
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @jacklehamster
 - 😄 Pronouns: You can call me ze hamster, or el hamster, maybe yo hamster...
 - ⚡ Fun fact: 79% of online poll results are just made up.
--->
