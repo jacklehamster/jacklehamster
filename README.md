@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://i.giphy.com/media/gbmWwWm4sGMQvAYm1G/giphy.webp)
+
 - 🔭 I’m currently working on a crazy game called World of Turtle
 - 🌱 I’m currently learning to build and release games on Steam.
 - 👯 I’m looking to collaborate on making artsy games.
