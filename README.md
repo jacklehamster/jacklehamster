@@ -15,7 +15,7 @@
 
 Some tools/projects:
 - 🕹 World of Turtle: https://worldofturtle.com
-  A game developed entirely using JavaScript/TypeScript, WebGL, React.
+- - A game developed entirely using JavaScript/TypeScript, WebGL, React.
 - 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/
 - 🛠️ Dok-socket: https://jacklehamster.github.io/dok-socket/
 - 🕹 Far out: https://jacklehamster.github.io/far-out-there/public/
