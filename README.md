@@ -28,3 +28,8 @@ Some tools/projects:
 - 🧸 World creator: https://jacklehamster.github.io/world-creator/
 - 🧸 Bigbang: https://jacklehamster.github.io/bigbang/
 - 🕹 Total Rickall Massacre: https://jacklehamster.github.io/rickall/
+- 🕹 Board games: https://jacklehamster.github.io/boardgame/
+- 🛠️ Texture manager: https://jacklehamster.github.io/texture-manager/demo/
+- 🛠️ Math graph: https://jacklehamster.github.io/math-graph/
+- 🛠️ Collision Engine: https://jacklehamster.github.io/collision-engine/
+- 🕹 Games: https://jacklehamster.github.io/jacklehamster/
