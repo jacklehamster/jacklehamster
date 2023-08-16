@@ -14,7 +14,7 @@
 - 📺 Subscribe to my [gaming channel](https://www.youtube.com/@dobuki)
 
 Some tools/projects:
-- 🕹 World of Turtle: https://worldofturtle.com
+- 🐢 World of Turtle: https://worldofturtle.com
 - - A game developed entirely using JavaScript/TypeScript, WebGL, React.
 - 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/
 - 🛠️ Dok-socket: https://jacklehamster.github.io/dok-socket/
