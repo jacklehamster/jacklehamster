@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://assets.aboutamazon.com/dims4/default/ea81c1f/2147483647/strip/true/crop/1320x743+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F73%2F2c%2F283076f6402fa36c60eabca24539%2Fastro-hero-animatedgif-1320x743.gif)
+![]([https://assets.aboutamazon.com/dims4/default/ea81c1f/2147483647/strip/true/crop/1320x743+0+0/resize/1320x743!/quality/90/?url=https%3A%2F%2Famazon-blogs-brightspot.s3.amazonaws.com%2F73%2F2c%2F283076f6402fa36c60eabca24539%2Fastro-hero-animatedgif-1320x743.gif](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif))
 
 - 🔭 I’m currently developing a new programming language called NAPL.
 - 🌱 I’m currently learning to build and release games on Steam.
