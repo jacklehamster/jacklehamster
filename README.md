@@ -3,10 +3,10 @@
 ![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
 
 - 🔭 I’m currently developing a new programming language called NAPL.
-- 🌱 I’m currently learning to build and release games on Steam.
+- 🌱 I’m currently building and releasing games on Steam.
 - 👯 I’m looking to collaborate on making artsy games.
-- 🤔 I’m looking for help with just anything.
-- 💬 Ask me about my games and my hobbies.
+- 🤔 I’m looking for inspiration in this world full of challenges.
+- 💬 Ask me about my projects.
 - 📫 How to reach me: @jacklehamster
 - 😄 Pronouns: You can call me ze hamster, or el hamster, maybe yo hamster...
 - ⚡ Fun fact: You can get high without smoking weed, if you dream that you're smoking weed.
