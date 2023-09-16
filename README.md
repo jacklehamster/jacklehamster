@@ -2,7 +2,7 @@
 
 ![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
 
-- 🔭 I’m currently developing a new programming language called NAPL.
+- 🔭 I’m currently developing a new programming language called [NAPL](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado).
 - 🌱 I’m currently building and releasing games on Steam.
 - 👯 I’m looking to collaborate on making artsy games.
 - 🤔 I’m looking for inspiration in this world full of challenges.
