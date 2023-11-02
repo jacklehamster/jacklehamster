@@ -2,8 +2,6 @@
 
 ![](https://cdn.lilapi.com/1/github/jacklehamster?t1=I'm%20Jack%20le%20hamster!&t2=I%20live%20in%20a%20cage,%20and%20spend%20all%20day%20composing%20songs%20and%20making%20games.)
 
-![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
-
 - 🔭 I’m currently developing a new programming language called [NAPL](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado).
 - 🌱 I’m currently building and releasing games on Steam.
 - 👯 I’m looking to collaborate on making artsy games.
@@ -35,3 +33,6 @@ Some tools/projects:
 - 🛠️ Math graph: https://jacklehamster.github.io/math-graph/
 - 🛠️ Collision Engine: https://jacklehamster.github.io/collision-engine/
 - 🕹 Games: https://jacklehamster.github.io/jacklehamster/
+
+![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
+
