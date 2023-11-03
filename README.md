@@ -32,6 +32,7 @@
 - 🛠️ Texture manager: https://jacklehamster.github.io/texture-manager/demo/
 - 🛠️ Math graph: https://jacklehamster.github.io/math-graph/
 - 🛠️ Collision Engine: https://jacklehamster.github.io/collision-engine/
+- 🍌 Gif2Sprite: https://jacklehamster.github.io/utils/gif2sprite/
 - 🕹 Games: https://jacklehamster.github.io/jacklehamster/
 
 ![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
