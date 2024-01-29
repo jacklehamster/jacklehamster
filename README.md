@@ -16,24 +16,24 @@
 #### Some tools/projects:
 - 🐢 World of Turtle: https://worldofturtle.com
 - - A game developed entirely using JavaScript/TypeScript, WebGL, React.
-- 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/
-- 🛠️ Dok-socket: https://jacklehamster.github.io/dok-socket/
-- 🕹 Far out: https://jacklehamster.github.io/far-out-there/public/
-- 🕹 Where in Space is Baby Hitler: https://jacklehamster.github.io/baby-hitler-2/
-- 🎨 My art: https://jacklehamster.github.io/art/
-- 🛠️ Sudoku solver: https://jacklehamster.github.io/sudoku/
-- 🕹 Chesstron: https://jacklehamster.github.io/chesstron/
-- 🛠️ Motion prediction: https://jacklehamster.github.io/motion-prediction/
-- 🕹 Penguin quest: https://jacklehamster.github.io/penguin-quest/src
-- 🧸 World creator: https://jacklehamster.github.io/world-creator/
-- 🧸 Bigbang: https://jacklehamster.github.io/bigbang/
-- 🕹 Total Rickall Massacre: https://jacklehamster.github.io/rickall/
-- 🕹 Board games: https://jacklehamster.github.io/boardgame/
-- 🛠️ Texture manager: https://jacklehamster.github.io/texture-manager/demo/
-- 🛠️ Math graph: https://jacklehamster.github.io/math-graph/
-- 🛠️ Collision Engine: https://jacklehamster.github.io/collision-engine/
-- 🍌 Gif2Sprite: https://jacklehamster.github.io/utils/gif2sprite/
-- 🕹 Games: https://jacklehamster.github.io/jacklehamster/
+- 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/ [🐙](https://github.com/jacklehamster/youtube-thumbnail)
+- 🛠️ Dok-socket: https://jacklehamster.github.io/dok-socket/ [🐙](https://github.com/jacklehamster/dok-socket)
+- 🕹 Far out: https://jacklehamster.github.io/far-out-there/public/ [🐙](https://github.com/jacklehamster/far-out-there)
+- 🕹 Where in Space is Baby Hitler: https://jacklehamster.github.io/baby-hitler-2/ [🐙](https://github.com/jacklehamster/baby-hitler-2)
+- 🎨 My art: https://jacklehamster.github.io/art/ [🐙](https://github.com/jacklehamster/art)
+- 🛠️ Sudoku solver: https://jacklehamster.github.io/sudoku/ [🐙](https://github.com/jacklehamster/sudoku)
+- 🕹 Chesstron: https://jacklehamster.github.io/chesstron/ [🐙](https://github.com/jacklehamster/chesstron)
+- 🛠️ Motion prediction: https://jacklehamster.github.io/motion-prediction/ [🐙](https://github.com/jacklehamster/motion-prediction)
+- 🕹 Penguin quest: https://jacklehamster.github.io/penguin-quest/src [🐙](https://github.com/jacklehamster/penguin-quest)
+- 🧸 World creator: https://jacklehamster.github.io/world-creator/ [🐙](https://github.com/jacklehamster/world-creator)
+- 🧸 Bigbang: https://jacklehamster.github.io/bigbang/ [🐙](https://github.com/jacklehamster/bigbang)
+- 🕹 Total Rickall Massacre: https://jacklehamster.github.io/rickall/ [🐙](https://github.com/jacklehamster/rickall)
+- 🕹 Board games: https://jacklehamster.github.io/boardgame/ [🐙](https://github.com/jacklehamster/boardgame)
+- 🛠️ Texture manager: https://jacklehamster.github.io/texture-manager/demo/ [🐙](https://github.com/texture-manager)
+- 🛠️ Math graph: https://jacklehamster.github.io/math-graph/ [🐙](https://github.com/jacklehamster/math-graph)
+- 🛠️ Collision Engine: https://jacklehamster.github.io/collision-engine/ [🐙](https://github.com/jacklehamster/collision-engine)
+- 🍌 Gif2Sprite: https://jacklehamster.github.io/utils/gif2sprite/ [🐙](https://github.com/jacklehamster/utils/tree/gh-pages/gif2sprite)
+- 🕹 Games: https://jacklehamster.github.io/jacklehamster/ [🐙](https://github.com/jacklehamster/jacklehamster)
 
 ![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
 
