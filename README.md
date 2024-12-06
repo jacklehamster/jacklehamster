@@ -35,5 +35,16 @@
 - 🍌 Gif2Sprite: https://jacklehamster.github.io/utils/gif2sprite/ [🐙](https://github.com/jacklehamster/utils/tree/gh-pages/gif2sprite)
 - 🕹 Games: https://jacklehamster.github.io/jacklehamster/ [🐙](https://github.com/jacklehamster/jacklehamster)
 
+
+
 ![](https://media.tenor.com/Ey2wR2sNPjwAAAAC/excited-im.gif)
+
+---
+
+**You love what I do? Here's how you can support me:**
+
+| [![Dobuki on Patreon](https://img.itch.zone/aW1nLzE4ODc4NzA0LnBuZw==/original/vAkVck.png)](https://www.patreon.com/dobuki) | [![Crypto donation with NOWPayments](https://img.itch.zone/aW1nLzE4ODc4NzY1LnBuZw==/original/PQnMBK.png)](https://nowpayments.io/donation/dobuki) | [![Buy Me a Coffee at ko-fi.com](https://cdn.ko-fi.com/cdn/kofi2.png?v=3)](https://ko-fi.com/J3J47ZMUP) |
+|:------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+| [Support me on Patreon](https://www.patreon.com/dobuki)                                                  | [Donate Dogecoins](https://nowpayments.io/donation/dobuki)                                       | [Buy me Ko-fi](https://ko-fi.com/J3J47ZMUP)                                                      |
+
 
