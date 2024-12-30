@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 ![](https://cdn.lilapi.com/1/github/jacklehamster?t1=I'm%20Jack%20le%20hamster!&t2=I%20live%20in%20a%20cage,%20and%20spend%20all%20day%20composing%20songs%20and%20making%20games.)
+
+## Updates
+
+- 🕹 Just released "The Supernatural Troll" on Newgrounds!
+  - [![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252)
+
+## About me
 
 - 🔭 I’m currently developing a new programming language called [NAPL](https://dev.to/jacklehamster/starting-project-napl-a-new-free-web-based-game-engine-3ado).
 - 🌱 I’m currently building and releasing games on Steam.
