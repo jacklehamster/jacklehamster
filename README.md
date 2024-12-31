@@ -4,7 +4,7 @@
 
 ## Updates
 
-- 🕹 Just released "The Supernatural Troll" on Newgrounds!
+- 🕹 Just released ["The Supernatural Troll"](https://www.newgrounds.com/portal/view/962252) on Newgrounds!
   - [![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252)
 
 ## About me
