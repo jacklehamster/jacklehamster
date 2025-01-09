@@ -24,6 +24,7 @@
 - 🐢 World of Turtle: https://worldofturtle.com
 - - A game developed entirely using JavaScript/TypeScript, WebGL, React.
 - 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/ [🐙](https://github.com/jacklehamster/youtube-thumbnail)
+- 🛠️ Asset Loader: https://jacklehamster.github.io/asset-loader/docs [🐙](https://github.com/jacklehamster/asset-loader)
 - 🕹 Far out: https://jacklehamster.github.io/far-out-there/public/ [🐙](https://github.com/jacklehamster/far-out-there)
 - 🕹 Where in Space is Baby Hitler: https://jacklehamster.github.io/baby-hitler-2/ [🐙](https://github.com/jacklehamster/baby-hitler-2)
 - 🎨 My art: https://jacklehamster.github.io/art/ [🐙](https://github.com/jacklehamster/art)
