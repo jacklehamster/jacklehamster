@@ -25,7 +25,7 @@
 - 🐢 World of Turtle: <https://wot.dobuki.net>
 - 🛠️ YouTube Thumbnail downloader: <https://jacklehamster.github.io/youtube-thumbnail> [🐙](https://github.com/jacklehamster/youtube-thumbnail)
 - 🛠️ Asset Loader: <https://jacklehamster.github.io/asset-loader/docs> [🐙](https://github.com/jacklehamster/asset-loader)
-- 🛠️ NAPL <https://github.com/jacklehamster/NAPL/example> [🐙](https://github.com/jacklehamster/NAPL)
+- 🛠️ NAPL <https://jacklehamster.github.io/NAPL/example/> [🐙](https://github.com/jacklehamster/NAPL)
 - 🏹 The Terror of Mongolia: <https://www.newgrounds.com/portal/view/907044> [🐙](https://github.com/jacklehamster/khan-js13k)
 - 🐑 Oh Sheep!: <https://ohsheep.dobuki.net/> [🐙](https://github.com/jacklehamster/animals)
 - 🕹 Far out: <https://jacklehamster.github.io/far-out-there/public> [🐙](https://github.com/jacklehamster/far-out-there)
