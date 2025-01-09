@@ -5,7 +5,7 @@
 ## Updates
 
 - 🕹 Just released ["The Supernatural Troll"](https://www.newgrounds.com/portal/view/962252) on Newgrounds!
-  - [![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252)
+  [![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252)
 
 ## About me
 
@@ -21,8 +21,7 @@
 - 📺 Subscribe to my [gaming channel](https://www.youtube.com/@dobuki)
 
 #### Some tools/projects:
-- 🐢 World of Turtle: https://worldofturtle.com
-- - A game developed entirely using JavaScript/TypeScript, WebGL, React.
+- 🐢 World of Turtle: <https://wot.dobuki.net>
 - 🛠️ YouTube Thumbnail downloader: https://jacklehamster.github.io/youtube-thumbnail/ [🐙](https://github.com/jacklehamster/youtube-thumbnail)
 - 🛠️ Asset Loader: https://jacklehamster.github.io/asset-loader/docs [🐙](https://github.com/jacklehamster/asset-loader)
 - 🕹 Far out: https://jacklehamster.github.io/far-out-there/public/ [🐙](https://github.com/jacklehamster/far-out-there)
