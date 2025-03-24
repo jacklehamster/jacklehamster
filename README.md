@@ -26,7 +26,7 @@
 - 🛠️ YouTube Thumbnail downloader: <https://jacklehamster.github.io/youtube-thumbnail> [🐙](https://github.com/jacklehamster/youtube-thumbnail)
 - 🛠️ Asset Loader: <https://jacklehamster.github.io/asset-loader/docs> [🐙](https://github.com/jacklehamster/asset-loader)
 - 🛠️ NAPL <https://jacklehamster.github.io/NAPL/example/> [🐙](https://github.com/jacklehamster/NAPL)
-- 🔄 SyncoPath <https://jacklehamster.github.io/syncopath/example> [🐙](https://github.com/jacklehamster/syncopath/)
+- 🔄 SyncoPath <https://jacklehamster.github.io/syncopath/example?split=1> [🐙](https://github.com/jacklehamster/syncopath/)
 - 🏹 The Terror of Mongolia: <https://www.newgrounds.com/portal/view/907044> [🐙](https://github.com/jacklehamster/khan-js13k)
 - 🐑 Oh Sheep!: <https://ohsheep.dobuki.net/> [🐙](https://github.com/jacklehamster/animals)
 - 🕹 Far out: <https://jacklehamster.github.io/far-out-there/public> [🐙](https://github.com/jacklehamster/far-out-there)
