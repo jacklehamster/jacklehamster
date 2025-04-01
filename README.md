@@ -2,7 +2,11 @@
 
 ![](https://cdn.lilapi.com/1/github/jacklehamster?t1=I'm%20Jack%20le%20hamster!&t2=I%20live%20in%20a%20cage,%20and%20spend%20all%20day%20composing%20songs%20and%20making%20games.)
 
-## Updates
+## New
+
+- 🛠️ [Turn your phone into a wireless Joy-Con with SyncoPath](https://dev.to/jacklehamster/turn-your-phone-into-a-wireless-joy-con-with-syncopath-cbb)
+
+[![SyncoPath](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fukbusif4uozl1kv1qo99.png)
 
 - 🕹 Just released ["The Supernatural Troll"](https://www.newgrounds.com/portal/view/962252) on Newgrounds!
   
