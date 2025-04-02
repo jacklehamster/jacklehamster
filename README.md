@@ -4,13 +4,15 @@
 
 ## New
 
-- 🛠️ [Turn your phone into a wireless Joy-Con with SyncoPath](https://dev.to/jacklehamster/turn-your-phone-into-a-wireless-joy-con-with-syncopath-cbb)
+| March 24, 2025 |
+|:--:|
+| 📱 [Turn your phone into a wireless Joy-Con with SyncoPath](https://dev.to/jacklehamster/turn-your-phone-into-a-wireless-joy-con-with-syncopath-cbb) |
+| [![SyncoPath](https://media2.dev.to/dynamic/image/width=326,height=138,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fukbusif4uozl1kv1qo99.png)](https://dev.to/jacklehamster/turn-your-phone-into-a-wireless-joy-con-with-syncopath-cbb) |
 
-[![SyncoPath](https://media2.dev.to/dynamic/image/width=326,height=138,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fukbusif4uozl1kv1qo99.png)](https://dev.to/jacklehamster/turn-your-phone-into-a-wireless-joy-con-with-syncopath-cbb)
-
-- 🕹 Just released ["The Supernatural Troll"](https://www.newgrounds.com/portal/view/962252) on Newgrounds!
-  
-[![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252)
+| December 29, 2024 |
+|:--:|
+| 🕹 Released ["The Supernatural Troll"](https://www.newgrounds.com/portal/view/962252) on Newgrounds! |
+| [![The Supernatural Power Troll](https://dobuki.github.io/art-depot/data/image/power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/ss4.png)](https://www.newgrounds.com/portal/view/962252) |
 
 ## About me
 
