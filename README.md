@@ -2,7 +2,7 @@
 
 ![](https://cdn.lilapi.com/1/github/jacklehamster?t1=I'm%20Jack%20le%20hamster!&t2=I%20live%20in%20a%20cage,%20and%20spend%20all%20day%20composing%20songs%20and%20making%20games.)
 
-## New
+## News
 
 | March 24, 2025 |
 |:--:|
